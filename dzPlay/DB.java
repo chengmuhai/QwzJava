@@ -10,7 +10,8 @@ public class DB {
 	
 	private int time,Scores,lv,number;////时间、分数、等级、单词数量、
 	public int sum[]={0,0};//正确错误率【0正确/1错误】
-	//单词字典
+	//单词字典，单纯就是为了修改一下看看。
+	String a1="hello 看看哈";
 	String T1[]={"hot","dog","for","not","lot","fox","joy","boy","box","fog","low"};
 	String T2[]={"only","like","very","both","wife","gave","twin","baby","girl","born","park","west","park","milk","pint"};
 	String T3[]={"abide","bacon","cargo","daily","extra","fairy","grant","hatch","ideal","jolly","knife","human","proof","quite","raise","scare"};
